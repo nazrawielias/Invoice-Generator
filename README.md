@@ -31,7 +31,7 @@ A lightweight invoice management system built with **PHP, MySQL, and JavaScript*
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/invoice-system
+https://github.com/nazrawielias/Invoice-Generator.git
 ```
 
 2. Move project to Laragon `www` folder
